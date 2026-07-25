@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cognizant.designpatterns</groupId>
-    <artifactId>singleton-pattern</artifactId>
+    <artifactId>factory-method-pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>singleton-pattern</name>
+    <name>factory-method-pattern</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
