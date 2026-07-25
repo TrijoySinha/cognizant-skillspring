@@ -1,5 +1,3 @@
-package com.cognizant.dsa.search;
-
 public class SearchAlgorithms {
 
     public static Product linearSearch(Product[] products, int targetId) {

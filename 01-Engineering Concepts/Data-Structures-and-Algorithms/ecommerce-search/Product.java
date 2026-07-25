@@ -1,5 +1,3 @@
-package com.cognizant.dsa.search;
-
 public class Product {
 
     private int productId;
